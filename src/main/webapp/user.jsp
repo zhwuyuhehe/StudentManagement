@@ -29,7 +29,7 @@
     </script>
 </head>
 <body>
-<%--todo 前端菜单--%>
+<!--前端菜单-->
 <!--菜单-->
 <div class="layui-header">
     <ul class="layui-nav layui-bg-gray layui-layout-right">
@@ -124,7 +124,7 @@
     <i class="layui-icon layui-icon-upload"></i>
     仅可上传CSV文件
 </button>
-<%--todo 表格的按钮-显示_前端--%>
+<!--表格的按钮-显示_前端-->
 <script id="toolbarDemo" type="text/html">
     <!-- 设置自定义工具栏按钮 -->
     <div class="layui-btn-container" style="margin: 0">
