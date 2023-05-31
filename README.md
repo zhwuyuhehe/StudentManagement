@@ -14,4 +14,5 @@ Oracle_JDK 17
 
 #### 数据库使用说明
 可以在Redis-CLI中添加用户数据  
-例：
+例：hmset '手机号' id 'stuNum' Phone 'name' pwd 'pwd' isRoot 'isRoot'  
+请把引号内的值改成你的值
